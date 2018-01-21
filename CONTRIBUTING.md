@@ -1,4 +1,4 @@
-# Contributing guide
+# How to contribute
 
 Process tbd. Until then:
 
